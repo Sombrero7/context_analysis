@@ -1,2 +1,8 @@
 # context_analysis
-gemsec papers context based classification
+#### GEMSEC papers context based classification
+
+* get gemsec pdf papers
+* convert to text files
+* analyze using wavelets
+* use statistics
+* documentation to follow
